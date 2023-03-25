@@ -1,0 +1,25 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    background-color: aquamarine;
+}
+.container {
+    display: flex;
+
+}
+.navbar {
+    display: flex;
+    height: 67px;
+    text-align:right;
+    
+}
+.navbar li {
+    list-style:none ;
+    margin: 2px 34px;
+    text-align: right;
+    text-decoration: none;
+}
+.navbar li a:hover {
+    
+    background-color: aliceblue;
+}
