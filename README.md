@@ -4,7 +4,7 @@ Mini_project
 <h2>15 <a href="">Mini_project</a>
 
 
-![209866827-2e9629cc-3009-4e13-a7e5-202903b8702b](https://user-images.githubusercontent.com/114743961/227728919-517e2086-1fdb-4b97-ac1b-a22a19d182f3.jpg)
+
 
 
 
@@ -32,5 +32,6 @@ Mini_project
 </br>
 <h1>my linkedin Account</h1>
 <a href="https://www.linkedin.com/in/suraj-achiever/">MY_linkedin</a>
-![209866827-2e9629cc-3009-4e13-a7e5-202903b8702b](https://user-images.githubusercontent.com/114743961/227728919-517e2086-1fdb-4b97-ac1b-a22a19d182f3.jpg)
 
+
+![209866827-2e9629cc-3009-4e13-a7e5-202903b8702b](https://user-images.githubusercontent.com/114743961/227728919-517e2086-1fdb-4b97-ac1b-a22a19d182f3.jpg)
